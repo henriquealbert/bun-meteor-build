@@ -1,5 +1,5 @@
 {
-  "meteorRelease": "none",
+  "meteorRelease": "METEOR@3.0-alpha.11",
   "appId": "dwddgmh7zda9.qivsrtz23zsp",
   "clientArchs": [
     "web.browser",

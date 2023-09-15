@@ -56,8 +56,7 @@ var require = meteorInstall({"server":{"main.js":function module(require,exports
 }}},{
   "extensions": [
     ".js",
-    ".json",
-    ".ts"
+    ".json"
   ]
 });
 
