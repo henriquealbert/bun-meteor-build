@@ -1,0 +1,24 @@
+{
+  "format": "site-archive-pre1",
+  "builtBy": "Meteor",
+  "programs": [
+    {
+      "name": "web.browser",
+      "arch": "web.browser",
+      "path": "programs/web.browser/program.json"
+    },
+    {
+      "name": "web.browser.legacy",
+      "arch": "web.browser.legacy",
+      "path": "programs/web.browser.legacy/program.json"
+    },
+    {
+      "name": "server",
+      "arch": "os",
+      "path": "programs/server/boot.js"
+    }
+  ],
+  "meteorRelease": "none",
+  "nodeVersion": "18.16.0",
+  "npmVersion": "9.6.7"
+}
